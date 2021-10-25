@@ -1,7 +1,8 @@
-package com.gunder.myunittesting
+package com.gunder.myunittesting.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.gunder.myunittesting.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
